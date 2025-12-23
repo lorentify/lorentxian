@@ -46,7 +46,7 @@ const songsList = [{
 },
 {
     name: "Last Christmas",
-    link: "Last CHristmas.mp3",
+    link: "Last Christmas.mp3",
     artist: "Wham!",
     image: "4.jpeg",
 },
@@ -305,3 +305,4 @@ noButton.addEventListener("click", () => {
     console.log("NO button clicked");
     window.location.href = "error.html";
 });
+
