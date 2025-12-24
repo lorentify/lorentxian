@@ -32,6 +32,14 @@ const songsList = [{
     artist: "Sia",
     image: "1.png",
 },
+
+{   
+    name: "Mistletoe",
+    link: "Mistletoe.mp3",
+    artist: "Justin Bieber",
+    image: "Mistletoe.jpeg",
+},
+
 {
     name: "All I Want For Christmas Is You",
     link: "All-I-Want-For-Christmas-Is-You.mp3",
@@ -305,4 +313,5 @@ noButton.addEventListener("click", () => {
     console.log("NO button clicked");
     window.location.href = "error.html";
 });
+
 
